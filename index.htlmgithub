@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NyumbaConnect</title>
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background-color: #f4f4f4;
+      padding: 50px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      font-size: 18px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #27ae60;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🏠 NyumbaConnect</h1>
+  <p>Find and list houses easily in Tanzania 🇹🇿</p>
+
+  <button>Browse Houses</button>
+
+</body>
+</html>
